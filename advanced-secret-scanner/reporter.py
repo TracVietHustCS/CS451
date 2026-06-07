@@ -10,7 +10,7 @@ def send_alert(findings: list):
     if not findings:
         return
         
-    smtp_user = "lengotracviet2212@gmail.com"
+    smtp_user = "quest7273@gmail.com"
     smtp_pass = os.environ.get("SMTP_PASS")
     receiver_email = os.environ.get("ALERT_EMAIL")
     
