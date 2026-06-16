@@ -14,8 +14,8 @@ def verify_github_token(token: str) -> bool:
         pass
     return False
 
-import boto3
-from botocore.exceptions import ClientError
+# import boto3
+# from botocore.exceptions import ClientError
 
 # def verify_aws_key(access_key: str) -> bool:
 #     """
