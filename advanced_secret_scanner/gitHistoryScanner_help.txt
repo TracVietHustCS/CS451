@@ -1,0 +1,3 @@
+How to run gitHistory_scanner.py:
+
+python gitHistory_scanner.py --owner TracVietHustCS --repo CS451 --branch main
